@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋, I'm Esther Castañeda
 
-<!--
-**esthercm99/esthercm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Multiplatform application developer, Web application developer and QA.
+🔭 I'm currently working as Quality Engineering Analyst on [Accenture](https://www.accenture.com/es-es)
+- 🌱 I’m currently learning C in [Campus 42](https://www.42malaga.com)
+- 😄 Pronouns: She/Her
+- 📫 How to connect with me: [LinkedIn](https://www.linkedin.com/in/esther-castañeda-89900716a/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+- ALM
+- Android
+- Angular
+- Apachecordova
+- Bash
+- Css3
+- Docker
+- Excel
+- Git
+- Html5
+- Ionic
+- Java
+- Javascript
+- Kotlin
+- Linux
+- Mariadb
+- Mongodb
+- Mysql
+- Nodejs
+- Oracle
+- Php
+- Postgresql
+- Postman
+- Python
+- Typescript
